@@ -1,6 +1,6 @@
 # Welcome to OceanPrize!
 
-This is a web-app built to support Ocean Wise's Plastic Wise program. It gamifies plastic recycling by reward. 
+This is a web-app built to support Ocean Wise's Plastic Wise program. It gamifies plastic recycling by reward. This application was developed as part of the VanHacks2018 event. It was developed by Parin Shah, Jason Cion, Frank Qiu, Chris Williamson, and Michael Simion.
 
 ### Requirements
 
